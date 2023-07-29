@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\bin\Debug\demoasynchroawait.exe.config
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\bin\Debug\demoasynchroawait.exe
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\bin\Debug\demoasynchroawait.pdb
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\obj\Debug\demoasynchroawait.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\obj\Debug\demoasynchroawait.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\obj\Debug\demoasynchroawait.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\obj\Debug\demoasynchroawait.exe
+C:\Users\Admin\source\mvc\demoasynchroawait\demoasynchroawait\obj\Debug\demoasynchroawait.pdb

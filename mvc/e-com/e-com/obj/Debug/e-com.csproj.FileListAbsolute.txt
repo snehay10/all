@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\e-com\e-com\bin\Debug\e-com.exe.config
+C:\Users\Admin\source\mvc\e-com\e-com\bin\Debug\e-com.exe
+C:\Users\Admin\source\mvc\e-com\e-com\bin\Debug\e-com.pdb
+C:\Users\Admin\source\mvc\e-com\e-com\obj\Debug\e-com.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\e-com\e-com\obj\Debug\e-com.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\e-com\e-com\obj\Debug\e-com.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\e-com\e-com\obj\Debug\e-com.exe
+C:\Users\Admin\source\mvc\e-com\e-com\obj\Debug\e-com.pdb

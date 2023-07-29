@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\multithreading\multithreading\bin\Debug\multithreading.exe.config
+C:\Users\Admin\source\mvc\multithreading\multithreading\bin\Debug\multithreading.exe
+C:\Users\Admin\source\mvc\multithreading\multithreading\bin\Debug\multithreading.pdb
+C:\Users\Admin\source\mvc\multithreading\multithreading\obj\Debug\multithreading.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\multithreading\multithreading\obj\Debug\multithreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\multithreading\multithreading\obj\Debug\multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\multithreading\multithreading\obj\Debug\multithreading.exe
+C:\Users\Admin\source\mvc\multithreading\multithreading\obj\Debug\multithreading.pdb

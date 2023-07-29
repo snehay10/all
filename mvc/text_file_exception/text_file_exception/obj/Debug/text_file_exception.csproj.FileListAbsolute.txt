@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\bin\Debug\text_file_exception.exe.config
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\bin\Debug\text_file_exception.exe
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\bin\Debug\text_file_exception.pdb
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\obj\Debug\text_file_exception.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\obj\Debug\text_file_exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\obj\Debug\text_file_exception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\obj\Debug\text_file_exception.exe
+C:\Users\Admin\source\mvc\text_file_exception\text_file_exception\obj\Debug\text_file_exception.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoasynchroawait", "demoasynchroawait\demoasynchroawait.csproj", "{A2CE452B-6B3A-428E-BC59-0717BD1F9554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CE452B-6B3A-428E-BC59-0717BD1F9554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CE452B-6B3A-428E-BC59-0717BD1F9554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CE452B-6B3A-428E-BC59-0717BD1F9554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CE452B-6B3A-428E-BC59-0717BD1F9554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA1FAFE-3254-4EF7-B938-B013368B6D4E}
+	EndGlobalSection
+EndGlobal

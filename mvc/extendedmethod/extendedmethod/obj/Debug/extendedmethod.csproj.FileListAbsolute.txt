@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\bin\Debug\extendedmethod.exe.config
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\bin\Debug\extendedmethod.exe
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\bin\Debug\extendedmethod.pdb
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\obj\Debug\extendedmethod.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\obj\Debug\extendedmethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\obj\Debug\extendedmethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\obj\Debug\extendedmethod.exe
+C:\Users\Admin\source\mvc\extendedmethod\extendedmethod\obj\Debug\extendedmethod.pdb

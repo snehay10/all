@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe.config
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\bin\Debug\insertion_sort.pdb
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\obj\Debug\insertion_sort.exe
+C:\Users\Admin\source\mvc\insertion_sort\insertion_sort\obj\Debug\insertion_sort.pdb

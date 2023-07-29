@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\new\new\obj\Debug\new.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\new\new\obj\Debug\new.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\new\new\bin\Debug\@new.exe.config
+C:\Users\Admin\source\mvc\new\new\bin\Debug\@new.exe
+C:\Users\Admin\source\mvc\new\new\bin\Debug\@new.pdb
+C:\Users\Admin\source\mvc\new\new\obj\Debug\@new.exe
+C:\Users\Admin\source\mvc\new\new\obj\Debug\@new.pdb

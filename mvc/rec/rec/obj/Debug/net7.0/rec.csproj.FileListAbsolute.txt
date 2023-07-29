@@ -1,0 +1,12 @@
+C:\Users\Admin\source\mvc\rec\rec\bin\Debug\net7.0\rec.deps.json
+C:\Users\Admin\source\mvc\rec\rec\bin\Debug\net7.0\rec.dll
+C:\Users\Admin\source\mvc\rec\rec\bin\Debug\net7.0\rec.pdb
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.AssemblyInfoInputs.cache
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.AssemblyInfo.cs
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.dll
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\refint\rec.dll
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\rec.pdb
+C:\Users\Admin\source\mvc\rec\rec\obj\Debug\net7.0\ref\rec.dll

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\bin\Debug\jaggedarray.exe.config
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\bin\Debug\jaggedarray.exe
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\bin\Debug\jaggedarray.pdb
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\obj\Debug\jaggedarray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\obj\Debug\jaggedarray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\obj\Debug\jaggedarray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\obj\Debug\jaggedarray.exe
+C:\Users\Admin\source\mvc\jaggedarray\jaggedarray\obj\Debug\jaggedarray.pdb

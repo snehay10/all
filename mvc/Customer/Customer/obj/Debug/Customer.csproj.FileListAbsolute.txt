@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Customer\Customer\bin\Debug\Customer.exe.config
+C:\Users\Admin\source\mvc\Customer\Customer\bin\Debug\Customer.exe
+C:\Users\Admin\source\mvc\Customer\Customer\bin\Debug\Customer.pdb
+C:\Users\Admin\source\mvc\Customer\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Customer\Customer\obj\Debug\Customer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Customer\Customer\obj\Debug\Customer.exe
+C:\Users\Admin\source\mvc\Customer\Customer\obj\Debug\Customer.pdb

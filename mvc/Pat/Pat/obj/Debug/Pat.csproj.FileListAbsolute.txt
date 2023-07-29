@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Pat\Pat\bin\Debug\Pat.exe.config
+C:\Users\Admin\source\mvc\Pat\Pat\bin\Debug\Pat.exe
+C:\Users\Admin\source\mvc\Pat\Pat\bin\Debug\Pat.pdb
+C:\Users\Admin\source\mvc\Pat\Pat\obj\Debug\Pat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Pat\Pat\obj\Debug\Pat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Pat\Pat\obj\Debug\Pat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Pat\Pat\obj\Debug\Pat.exe
+C:\Users\Admin\source\mvc\Pat\Pat\obj\Debug\Pat.pdb

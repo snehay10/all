@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*<p>THIS IS FIRST MVC PROJECT</p>
+<p> today current data and time  @DateTime.Now </p>
+<p> year =  @DateTime.Now.Year</p>
+
+@{
+    string[] fruit = new string[5] { "a", "b", "c", "d", "g" };
+    foreach (string i in fruit)
+    {
+        <text>@i</text>
+        <br>
+    }
+}
+@ViewData["message"]
+<br>
+@ViewData["name"]
+@{
+    
+}
+<ul>
+@{ 
+    foreach (var i in (List<string>)ViewData["sports"])
+    {
+
+                 <li> @i </li>
+
+
+    }
+}
+</ul>
+@{ 
+    var a = (mvc.Models.Emp)ViewData["Employee"];
+}
+<p> @a.Eid</p>
+<p>@a.Enm</p>
+<p>@a.EDesignation</p><br />
+<h3>demo of viewbag</h3>
+<h2>@ViewBag.Message1</h2>
+<ul>
+    
+        @{ 
+            foreach (string i in ViewBag.Fruits1)
+            {
+                <li>@i</li>
+            }
+                }
+    
+</ul>
+<ul>
+
+    @{
+        foreach (string i in ViewBag.Sports)
+        {
+            <li>@i</li>
+        }
+    }
+
+</ul>
+@{ 
+    var b = ViewBag.mans;
+}
+<h3>@b.Eid</h3>
+<h3>@b.Enm</h3>
+<h3>@b.EDesignation</h3>
+<h1>THIS IS HOME PAGE</h1>*@

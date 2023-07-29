@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\bin\Debug\day_2_pat.exe.config
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\bin\Debug\day_2_pat.exe
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\bin\Debug\day_2_pat.pdb
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\obj\Debug\day_2_pat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\obj\Debug\day_2_pat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\obj\Debug\day_2_pat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\obj\Debug\day_2_pat.exe
+C:\Users\Admin\source\mvc\day_2_pat\day_2_pat\obj\Debug\day_2_pat.pdb

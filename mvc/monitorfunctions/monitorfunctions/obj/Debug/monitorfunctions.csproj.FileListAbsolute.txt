@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\bin\Debug\monitorfunctions.exe.config
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\bin\Debug\monitorfunctions.exe
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\bin\Debug\monitorfunctions.pdb
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\obj\Debug\monitorfunctions.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\obj\Debug\monitorfunctions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\obj\Debug\monitorfunctions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\obj\Debug\monitorfunctions.exe
+C:\Users\Admin\source\mvc\monitorfunctions\monitorfunctions\obj\Debug\monitorfunctions.pdb

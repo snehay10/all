@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\crud\crud\bin\Debug\crud.exe.config
+C:\Users\Admin\source\mvc\crud\crud\bin\Debug\crud.exe
+C:\Users\Admin\source\mvc\crud\crud\bin\Debug\crud.pdb
+C:\Users\Admin\source\mvc\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\crud\crud\obj\Debug\crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\crud\crud\obj\Debug\crud.exe
+C:\Users\Admin\source\mvc\crud\crud\obj\Debug\crud.pdb

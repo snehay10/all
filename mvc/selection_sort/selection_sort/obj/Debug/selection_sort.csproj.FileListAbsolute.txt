@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+C:\Users\Admin\source\mvc\selection_sort\selection_sort\obj\Debug\selection_sort.pdb

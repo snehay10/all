@@ -1,0 +1,76 @@
+﻿@{
+    var msg = "hello Sneha.....";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@msg </title>
+</head>
+<body>
+    <div>
+        @{ var name = "hello"; }
+        @{ if (name.Length == 5)
+            {
+                @name
+                <text>length is 5</text> <br>
+
+                @:hello name
+            }
+            else
+            {
+                <text> length is not equal to zero</text>
+            }
+        }
+
+        @{
+            int a = 10;
+            int b = 20;
+        }
+        @(a*b);
+        @* want to display sign  @@ middle comments  *@
+        @*even odd*@
+        <br />
+        @{
+            var num = 10;
+            if (num % 2 == 0)
+            {
+                @num @:is even;
+            }
+            else
+            {
+                @num @:is odd ;
+            }
+        }
+
+        @*swich statment*@
+        @{ 
+                var ch = 10;
+                switch(ch)
+                {
+                    case 10:@:it's  @ch;
+                       break;
+                    case  20: @:it's not @ch;
+                    break;
+                    default:@:invalide;
+                            break;
+
+                }
+            }
+
+        @*while loop*@
+        @{ 
+            var num1 = 10;
+            while(num > 0)
+            {
+                <br>
+                @num;
+                num--;
+            }
+        }
+
+    </div>
+</body>
+</html>

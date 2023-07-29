@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\obj\Debug\Agorithms.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\obj\Debug\Agorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\obj\Debug\Agorithms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\bin\Debug\Agorithms.exe.config
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\bin\Debug\Agorithms.exe
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\bin\Debug\Agorithms.pdb
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\obj\Debug\Agorithms.exe
+C:\Users\Admin\source\mvc\Agorithms\Agorithms\obj\Debug\Agorithms.pdb

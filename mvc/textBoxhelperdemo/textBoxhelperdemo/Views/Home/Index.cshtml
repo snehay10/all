@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    Html.BeginForm("Index", "Home");
+}
+
+@Html.Label("Username") &nbsp; @Html.TextBox("Username")
+<br />
+@Html.Label("Password") &nbsp;    @Html.Password("Sneha@12")
+<br />
+@Html.Label("male") &nbsp;@Html.RadioButton("Gender","Male")
+@Html.Label("Female") &nbsp;@Html.RadioButton("Gender","Female")
+
+<br/>
+@Html.Label("Contry") &nbsp; @Html.DropDownList("Contry", new SelectList(new[] {"India","south-korea"}),"select")
+<br/>
+@Html.Label("Comments : ") &nbsp;@Html.TextArea("Comments area","",5,10,null);
+
+<br/>
+@Html.CheckBox("Accept") &nbsp; 
+@{
+    Html.EndForm();
+}

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\bin\Debug\binaryserach.exe.config
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\bin\Debug\binaryserach.exe
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\bin\Debug\binaryserach.pdb
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\obj\Debug\binaryserach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\obj\Debug\binaryserach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\obj\Debug\binaryserach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\obj\Debug\binaryserach.exe
+C:\Users\Admin\source\mvc\binaryserach\binaryserach\obj\Debug\binaryserach.pdb

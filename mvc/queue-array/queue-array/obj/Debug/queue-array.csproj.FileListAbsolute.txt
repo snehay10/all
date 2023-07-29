@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\queue-array\queue-array\bin\Debug\queue-array.exe.config
+C:\Users\Admin\source\mvc\queue-array\queue-array\bin\Debug\queue-array.exe
+C:\Users\Admin\source\mvc\queue-array\queue-array\bin\Debug\queue-array.pdb
+C:\Users\Admin\source\mvc\queue-array\queue-array\obj\Debug\queue-array.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\queue-array\queue-array\obj\Debug\queue-array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\queue-array\queue-array\obj\Debug\queue-array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\queue-array\queue-array\obj\Debug\queue-array.exe
+C:\Users\Admin\source\mvc\queue-array\queue-array\obj\Debug\queue-array.pdb

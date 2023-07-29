@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\bin\Debug\unsafe_demo.exe.config
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\bin\Debug\unsafe_demo.exe
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\bin\Debug\unsafe_demo.pdb
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\obj\Debug\unsafe_demo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\obj\Debug\unsafe_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\obj\Debug\unsafe_demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\obj\Debug\unsafe_demo.exe
+C:\Users\Admin\source\mvc\unsafe_demo\unsafe_demo\obj\Debug\unsafe_demo.pdb

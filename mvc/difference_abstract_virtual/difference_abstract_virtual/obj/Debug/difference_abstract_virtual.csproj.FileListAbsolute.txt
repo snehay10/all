@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\bin\Debug\difference_abstract_virtual.exe.config
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\bin\Debug\difference_abstract_virtual.exe
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\bin\Debug\difference_abstract_virtual.pdb
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\obj\Debug\difference_abstract_virtual.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\obj\Debug\difference_abstract_virtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\obj\Debug\difference_abstract_virtual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\obj\Debug\difference_abstract_virtual.exe
+C:\Users\Admin\source\mvc\difference_abstract_virtual\difference_abstract_virtual\obj\Debug\difference_abstract_virtual.pdb

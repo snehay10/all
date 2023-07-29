@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\bbs\bbs\bin\Debug\bbs.exe.config
+C:\Users\Admin\source\mvc\bbs\bbs\bin\Debug\bbs.exe
+C:\Users\Admin\source\mvc\bbs\bbs\bin\Debug\bbs.pdb
+C:\Users\Admin\source\mvc\bbs\bbs\obj\Debug\bbs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\bbs\bbs\obj\Debug\bbs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\bbs\bbs\obj\Debug\bbs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\bbs\bbs\obj\Debug\bbs.exe
+C:\Users\Admin\source\mvc\bbs\bbs\obj\Debug\bbs.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\delagates\delagates\bin\Debug\delagates.exe.config
+C:\Users\Admin\source\mvc\delagates\delagates\bin\Debug\delagates.exe
+C:\Users\Admin\source\mvc\delagates\delagates\bin\Debug\delagates.pdb
+C:\Users\Admin\source\mvc\delagates\delagates\obj\Debug\delagates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\delagates\delagates\obj\Debug\delagates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\delagates\delagates\obj\Debug\delagates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\delagates\delagates\obj\Debug\delagates.exe
+C:\Users\Admin\source\mvc\delagates\delagates\obj\Debug\delagates.pdb

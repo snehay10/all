@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\bin\Debug\ecommysql.exe.config
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\bin\Debug\ecommysql.exe
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\bin\Debug\ecommysql.pdb
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\obj\Debug\ecommysql.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\obj\Debug\ecommysql.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\obj\Debug\ecommysql.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\obj\Debug\ecommysql.exe
+C:\Users\Admin\source\mvc\ecommysql\ecommysql\obj\Debug\ecommysql.pdb

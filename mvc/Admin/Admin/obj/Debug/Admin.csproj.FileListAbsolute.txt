@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Users\Admin\source\mvc\Admin\Admin\bin\Debug\Admin.exe
+C:\Users\Admin\source\mvc\Admin\Admin\bin\Debug\Admin.pdb
+C:\Users\Admin\source\mvc\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Admin\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Admin\Admin\obj\Debug\Admin.exe
+C:\Users\Admin\source\mvc\Admin\Admin\obj\Debug\Admin.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\indexses\indexses\bin\Debug\indexses.exe.config
+C:\Users\Admin\source\mvc\indexses\indexses\bin\Debug\indexses.exe
+C:\Users\Admin\source\mvc\indexses\indexses\bin\Debug\indexses.pdb
+C:\Users\Admin\source\mvc\indexses\indexses\obj\Debug\indexses.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\indexses\indexses\obj\Debug\indexses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\indexses\indexses\obj\Debug\indexses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\indexses\indexses\obj\Debug\indexses.exe
+C:\Users\Admin\source\mvc\indexses\indexses\obj\Debug\indexses.pdb
