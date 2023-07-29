@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\sneha\sneha\obj\Debug\sneha.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\sneha\sneha\obj\Debug\sneha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\sneha\sneha\obj\Debug\sneha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\sneha\sneha\bin\Debug\sneha.exe.config
+C:\Users\Admin\source\mvc\sneha\sneha\bin\Debug\sneha.exe
+C:\Users\Admin\source\mvc\sneha\sneha\bin\Debug\sneha.pdb
+C:\Users\Admin\source\mvc\sneha\sneha\obj\Debug\sneha.exe
+C:\Users\Admin\source\mvc\sneha\sneha\obj\Debug\sneha.pdb

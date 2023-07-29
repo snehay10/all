@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\bin\Debug\inheritance_types.exe.config
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\bin\Debug\inheritance_types.exe
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\bin\Debug\inheritance_types.pdb
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\obj\Debug\inheritance_types.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\obj\Debug\inheritance_types.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\obj\Debug\inheritance_types.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\obj\Debug\inheritance_types.exe
+C:\Users\Admin\source\repos\inheritance_types\inheritance_types\obj\Debug\inheritance_types.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\bdcrud\bdcrud\bin\Debug\bdcrud.exe.config
+C:\Users\Admin\source\repos\bdcrud\bdcrud\bin\Debug\bdcrud.exe
+C:\Users\Admin\source\repos\bdcrud\bdcrud\bin\Debug\bdcrud.pdb
+C:\Users\Admin\source\repos\bdcrud\bdcrud\obj\Debug\bdcrud.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bdcrud\bdcrud\obj\Debug\bdcrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\bdcrud\bdcrud\obj\Debug\bdcrud.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bdcrud\bdcrud\obj\Debug\bdcrud.exe
+C:\Users\Admin\source\repos\bdcrud\bdcrud\obj\Debug\bdcrud.pdb

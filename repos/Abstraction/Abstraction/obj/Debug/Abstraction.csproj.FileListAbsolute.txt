@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Admin\source\repos\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Admin\source\repos\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Admin\source\repos\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Admin\source\repos\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

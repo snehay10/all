@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\list_imp\list_imp\bin\Debug\list_imp.exe.config
+C:\Users\Admin\source\repos\list_imp\list_imp\bin\Debug\list_imp.exe
+C:\Users\Admin\source\repos\list_imp\list_imp\bin\Debug\list_imp.pdb
+C:\Users\Admin\source\repos\list_imp\list_imp\obj\Debug\list_imp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\list_imp\list_imp\obj\Debug\list_imp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\list_imp\list_imp\obj\Debug\list_imp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\list_imp\list_imp\obj\Debug\list_imp.exe
+C:\Users\Admin\source\repos\list_imp\list_imp\obj\Debug\list_imp.pdb

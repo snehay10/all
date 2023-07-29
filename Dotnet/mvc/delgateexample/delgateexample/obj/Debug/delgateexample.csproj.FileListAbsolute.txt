@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\bin\Debug\delgateexample.exe.config
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\bin\Debug\delgateexample.exe
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\bin\Debug\delgateexample.pdb
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\obj\Debug\delgateexample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\obj\Debug\delgateexample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\obj\Debug\delgateexample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\obj\Debug\delgateexample.exe
+C:\Users\Admin\source\mvc\delgateexample\delgateexample\obj\Debug\delgateexample.pdb

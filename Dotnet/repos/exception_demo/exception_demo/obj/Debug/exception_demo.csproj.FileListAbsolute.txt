@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\exception_demo\exception_demo\bin\Debug\exception_demo.exe.config
+C:\Users\Admin\source\repos\exception_demo\exception_demo\bin\Debug\exception_demo.exe
+C:\Users\Admin\source\repos\exception_demo\exception_demo\bin\Debug\exception_demo.pdb
+C:\Users\Admin\source\repos\exception_demo\exception_demo\obj\Debug\exception_demo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\exception_demo\exception_demo\obj\Debug\exception_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\exception_demo\exception_demo\obj\Debug\exception_demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\exception_demo\exception_demo\obj\Debug\exception_demo.exe
+C:\Users\Admin\source\repos\exception_demo\exception_demo\obj\Debug\exception_demo.pdb

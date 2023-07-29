@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.Form1.resources
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.csproj.CoreCompileInputs.cache

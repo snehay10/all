@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\bin\Debug\Stringoperation.exe.config
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\bin\Debug\Stringoperation.exe
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\bin\Debug\Stringoperation.pdb
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\obj\Debug\Stringoperation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\obj\Debug\Stringoperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\obj\Debug\Stringoperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\obj\Debug\Stringoperation.exe
+C:\Users\Admin\source\mvc\Stringoperation\Stringoperation\obj\Debug\Stringoperation.pdb

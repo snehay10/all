@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\bin\Debug\paramkeyword.exe.config
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\bin\Debug\paramkeyword.exe
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\bin\Debug\paramkeyword.pdb
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\obj\Debug\paramkeyword.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\obj\Debug\paramkeyword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\obj\Debug\paramkeyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\obj\Debug\paramkeyword.exe
+C:\Users\Admin\source\repos\paramkeyword\paramkeyword\obj\Debug\paramkeyword.pdb

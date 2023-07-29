@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Admin\source\mvc\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Admin\source\mvc\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Admin\source\mvc\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Admin\source\mvc\Interface\Interface\obj\Debug\Interface.pdb

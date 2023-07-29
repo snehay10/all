@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Admin\source\mvc\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\Admin\source\mvc\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Admin\source\mvc\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\Constructors\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\Admin\source\mvc\Constructors\Constructors\obj\Debug\Constructors.pdb

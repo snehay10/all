@@ -1,0 +1,8 @@
+C:\Users\Admin\source\mvc\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\Admin\source\mvc\enum\enum\bin\Debug\@enum.exe
+C:\Users\Admin\source\mvc\enum\enum\bin\Debug\@enum.pdb
+C:\Users\Admin\source\mvc\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+C:\Users\Admin\source\mvc\enum\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\mvc\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\mvc\enum\enum\obj\Debug\@enum.exe
+C:\Users\Admin\source\mvc\enum\enum\obj\Debug\@enum.pdb

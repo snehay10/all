@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\bin\Debug\LING_DEMO.exe.config
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\bin\Debug\LING_DEMO.exe
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\bin\Debug\LING_DEMO.pdb
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\obj\Debug\LING_DEMO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\obj\Debug\LING_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\obj\Debug\LING_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\obj\Debug\LING_DEMO.exe
+C:\Users\Admin\source\repos\LING_DEMO\LING_DEMO\obj\Debug\LING_DEMO.pdb
