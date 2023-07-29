@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\crudAng\API\game\game\bin\Debug\game.exe.config
+C:\Users\Admin\Desktop\crudAng\API\game\game\bin\Debug\game.exe
+C:\Users\Admin\Desktop\crudAng\API\game\game\bin\Debug\game.pdb
+C:\Users\Admin\Desktop\crudAng\API\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\crudAng\API\game\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\crudAng\API\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\crudAng\API\game\game\obj\Debug\game.exe
+C:\Users\Admin\Desktop\crudAng\API\game\game\obj\Debug\game.pdb

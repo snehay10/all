@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\bin\Debug\rev.exe.config
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\bin\Debug\rev.exe
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\bin\Debug\rev.pdb
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\obj\Debug\rev.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\obj\Debug\rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\obj\Debug\rev.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\obj\Debug\rev.exe
+C:\Users\Admin\Desktop\crudAng\API\rev\rev\obj\Debug\rev.pdb

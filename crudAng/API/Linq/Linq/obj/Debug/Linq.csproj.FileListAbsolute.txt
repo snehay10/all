@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Admin\Desktop\crudAng\API\Linq\Linq\obj\Debug\Linq.pdb
